@@ -1,0 +1,48 @@
+body{
+
+	background: #d2d2c1 url('fundo.png');
+}
+
+
+.cor_fundo {
+
+	background-color: #d2d2c1;
+}
+
+
+.cor_fundo2 {
+
+
+	background-color: #E4E8B4 ;
+
+}
+
+
+
+.letra {
+
+
+	font-family: sans-serif;
+	font-weight: 10px;
+
+}
+
+
+.letra_titulo {
+
+	font-style: sans-serif;
+	font-weight: 10px;
+	font
+
+
+}
+
+
+
+.borda {
+
+
+
+border: 10px groove #AC8D4F;
+
+}
